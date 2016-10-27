@@ -1,4 +1,4 @@
-tacofancy
+KillerTacos
 =========
 This repository is a copy of [tacofancy](https://github.com/sinker/tacofancy ) as of October 27 2016. Please visit [tacofancy](https://github.com/sinker/tacofancy ) for delicious, detailed recipes of tacos. This repository is only meant for demonstrating Git concepts to newbies - tacos are an easy way to do so.
 
