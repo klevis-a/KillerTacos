@@ -9,5 +9,6 @@ On top:
 * Chopped onion
 * Green olives
 * Golden raisins
+* Feta
 
 Add a sauce of chopped mint and tomato.
